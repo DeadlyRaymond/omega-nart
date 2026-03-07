@@ -16,7 +16,7 @@ section {
 	   background: url('bg.jpg') no-repeat;
 	   background-size: cover;
 	   background-position: center;
-	   animation: animateBg 5s linear infinite;
+	   animation: animateBg 7s linear infinite;
 }
 
 @keyframes animateBg {
@@ -147,4 +147,5 @@ button {
            .input-box {
            	  width: 290px;
            }
+
 }
