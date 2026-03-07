@@ -16,7 +16,7 @@ section {
 	   background: url('bg.jpg') no-repeat;
 	   background-size: cover;
 	   background-position: center;
-	   animation: animateBg 3s linear infinite;
+	   animation: animateBg 5s linear infinite;
 }
 
 @keyframes animateBg {
@@ -149,4 +149,5 @@ button {
            }
 
 }
+
 
