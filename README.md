@@ -47,11 +47,11 @@ xdg-open index.html
 omega-nart/
 ├── index.html      # Main HTML file with login form structure
 ├── style.css       # Complete styling and animations
-├── bg1.jpg         # Background image 1
+├── bg1.jpg         # Background image 1 (currently active)
 ├── bg2.jpg         # Background image 2
 ├── bg3.jpg         # Background image 3
 ├── bg4.jpg         # Background image 4
-├── bg5.jpg         # Background image 5 (currently active)
+├── bg5.jpg         # Background image 5
 └── README.md       # This file
 ```
 
